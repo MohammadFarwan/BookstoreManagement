@@ -1,0 +1,1 @@
+This is a Bookstore Management platform built using ASP.NET Core MVC. The application provides CRUD (Create, Read, Update, Delete) functionality for managing books, including properties such as Title, Author, Price, and Genre. It also includes validation to ensure proper data entry.
